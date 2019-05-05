@@ -1,1 +1,1 @@
-# Django-Polls-Tutorial
+# django-polls-tutorial
